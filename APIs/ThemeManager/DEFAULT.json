@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "name": "Default Theme",
+        "author": "Computercraft Team",
+        "description": "The default theme for ComputerCraft, providing a classic look and feel.",
+        "version": "1.0.0"
+    },
+    "colors": {
+        "white": "#F0F0F0",
+        "orange": "#F2B233",
+        "magenta": "#E57FD8",
+        "lightBlue": "#99B2F2",
+        "yellow": "#DEDE6C",
+        "lime": "#7FCC19",
+        "pink": "#F2B2CC",
+        "gray": "#4C4C4C",
+        "lightGray": "#999999",
+        "cyan": "#4C99B2",
+        "purple": "#B266E5",
+        "blue": "#3366CC",
+        "brown": "#7F664C",
+        "green": "#57A64E",
+        "red": "#CC4C4C",
+        "black": "#111111"
+    },
+    "gui": {
+        "background": "black",
+        "text": "white",
+        "header": "blue",
+        "accent": "purple",
+        "highlight": "lightGray",
+        "error": "red",
+        "success": "green",
+        "warning": "yellow",
+        "info": "cyan",
+        "disabled": "gray",
+        "border": "gray"
+    }
+}
